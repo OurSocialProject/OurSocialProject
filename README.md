@@ -6,7 +6,7 @@ We believe that we have everything that we need to be happy in this world, if on
 
 We want to combat this problem through community. We believe that, by connecting with other people, we can lift each other up to new heights. With a group of friends that love and accept us for who we are, we believe that we can build the self-confidence to do greater things. Usually, self-development is seen as a process of working on yourself, and then being worthy enough of human connection. In our view, instead, we think that human connection comes first, and self development follows naturally as a direct result.
 
-*Our Social Project* is an open source initiative that empowers people to create fantastic, supportive communities in their area. We have a set of rituals that we do as a group to create and spread this human connection to others. You can join our Slack channel to pitch in thoughts, and find like-minded people who share your vision. We maintain a [Github repository](https://github.com/OurSocialProject), as a group, where you can see the rituals that we’ve come up with so far to help foster our own community. You can use these rituals for your own group, or you can also make a “fork”, where you can create rituals of your own. We also have a Medium blog, so that everyone can add stories about their own experiences with trying to get their social projects to work for them.
+*OurSocialProject* is an open source initiative that empowers people to create fantastic, supportive communities in their area. We have a set of rituals that we do as a group to create and spread this human connection to others. You can [join our Slack channel](https://oursocialproject.slack.com/join/shared_invite/enQtNTMwNDE4Mjk5NzMwLWEzMjg4MmYxYTdhZGJmNzdkMWY4YWE4MGQwMzdkZGRkODAzN2YyNzVkMDAxMGZhOTJkNzkxYzkzZjdlNWY1ZGQ) to pitch in thoughts, and find like-minded people who share your vision. We maintain a [Github repository](https://github.com/OurSocialProject), as a group, where you can see the rituals that we’ve come up with so far to help foster our own community. You can use these rituals for your own group, or you can also make a “fork”, where you can create rituals of your own. We also run a Medium publication, so that everyone can add stories about their own experiences with trying to get their social projects to work for them.
 
 ## Our Values
 
@@ -42,7 +42,7 @@ The rituals that we have committed to so far are as follows:
 
 Before reading this, bear in mind that, as we start out with this project, we are focusing our attention on developers. We do this because we want to leverage the existing open source culture that exists in the world of software development. Developers are used to the idea of forking repositories, working on their own fork of the project, and then submitting a pull request to make the open source project better. We also want to allow great developers to help to build interesting projects for the good of our overall community. Members of the community are free to make feature requests for ways that we can improve our site, and can chip in time here and there to make it better.
 
-Further down the line, we would like to target a more mainstream audience, who will also have important contributions to make about how we can build better communities. We would like to build a repo-builder, that takes users through a wizard form, which helps them to establish a fork of the project. They too can then have a mirror of our site, which lives at www.oursocialproject.org/MY_VARIANT_ID. We can then integrate a nice user interface, where the mechanics of pull requests are abstracted away behind a comment and discussion system. This might even involve another fork being set up, which is specifically designed to cater to a mass audience. This fork might eventually have a new project name, which is a bit sexier than “Our Social Project”!
+Further down the line, we would like to target a more mainstream audience, who will also have important contributions to make about how we can build better communities. We would like to build a repo-builder, that takes users through a wizard form, which helps them to establish a fork of the project. They too can then have a mirror of our site, which lives at https://OurSocialProject.org/MY_VARIANT_ID. We can then integrate a nice user interface, where the mechanics of pull requests are abstracted away behind a comment and discussion system. This might even involve another fork being set up, which is specifically designed to cater to a mass audience. This fork might eventually have a new project name, which is a bit sexier than “OurSocialProject”!
 
 With all that said, we would of course love to get people involved who aren’t just developers! We want people to stick to using GitHub as a whole, to give things a simple structure, but you don’t need to be an expert with Git to get started.
 
@@ -67,15 +67,15 @@ As a first step, we want you to write out a personal story expressing why you ar
  - What does a good community mean to you?
  - Can you describe how you felt at a time in your life when you lacked a good community?
  - Can you describe a time in your life when you had a great community? How did it feel physiologically?
- - What are you hoping to achieve by making a community using Our Social Project?
+ - What are you hoping to achieve by making a community using OurSocialProject?
  - What would your ideal community NOT look like?
- - What kinds of interesting ideas do you like, which fit together with the overall themes in Our Social Project?
+ - What kinds of interesting ideas do you like, which fit together with the overall themes in OurSocialProject?
 
 As a general word of advice, we would recommend this manifesto to be deeply personal. If you can bear to do it, mention something that you feel insecure about, which makes you feel a little vulnerable. This is important, because true connection can only begin to take shape in a world where we accept ourselves as human beings. It gives us something tangible to connect over. It also happens to project an extreme sense of self-confidence - as you are accepting of your own flaws, without letting it affect your sense of self.
 
 We would also encourage you to share this manifesto on social media. The aim is to get people genuinely interested in this project, and to spread the project as quickly as possible around the internet. We believe that hearing real human stories, told by people that we love, can inspire people to get involved for themselves. Maybe the reason that you got involved in the first place was that you saw a friend open up about their own insecurities about community for themselves. Do you think that you would have been more convinced if they strictly stuck to writing a dispassionate argument based on facts?
 
-If you feel comfortable with it, then you can also publish your manifesto to Medium, where we have a channel set up. If you really don’t feel like writing a manifesto out, then you can also make a video manifesto. The idea here would be to chronicle your progress as a “vlog”, rather than a blog. These videos can be shared on YouTube - and similarly, you can share these videos on the Our Social Project YouTube channel.
+If you feel comfortable with it, then you can also publish your manifesto to Medium, where we have a channel set up. If you really don’t feel like writing a manifesto out, then you can also make a video manifesto. The idea here would be to chronicle your progress as a “vlog”, rather than a blog. These videos can be shared on YouTube - and similarly, you can share these videos on the OurSocialProject YouTube channel.
 
 Here’s an example of the first manifesto that was written to try to communicate this message.
 
@@ -91,7 +91,7 @@ If you find that your own values are so far removed from what we have come up wi
 
 The next step is to isolate a group of people that you can start socializing with. We want to give you as much flexibility as possible with this. You might decide that what you want from this open social project is simply for you to gain a better relationship with your friends. If that’s the case, then you could simply share your manifesto with a few friends, and try to get them to buy into it. Ideally, you’ll get them to follow these steps themselves, thinking through their own manifesto, rituals, and values - and you’ll be able to compare.
 
-If your friends seem unwilling or uninterested in doing this, then you can join the Our Social Project Slack channel here. The Slack channel as a whole is meant to be an open place, where anybody in the community can feel free to discuss about topics related to the project, as well as offering suggestions for how to make it better.
+If your friends seem unwilling or uninterested in doing this, then you can join the OurSocialProject Slack channel [here](https://oursocialproject.slack.com/join/shared_invite/enQtNTMwNDE4Mjk5NzMwLWEzMjg4MmYxYTdhZGJmNzdkMWY4YWE4MGQwMzdkZGRkODAzN2YyNzVkMDAxMGZhOTJkNzkxYzkzZjdlNWY1ZGQ). The Slack channel as a whole is meant to be an open place, where anybody in the community can feel free to discuss about topics related to the project, as well as offering suggestions for how to make it better.
 
 Search to see whether there are any open channels in your area already, and if not, you can make one for yourself. Once the channel has a decent number of members, you can start proposing friendship groups where you can try out your rituals. You might like to share your own GitHub repo here, allowing you to sort yourself into a group of people that seem interesting to you. Once you have identified a few people that you would like to start a group with, then create a group message with these people in it. 
 
@@ -103,7 +103,7 @@ You are also totally free to decide how large you want the group to be. You migh
 
 The next step is to for a member of your group to come up with a GitHub account for your own local community. Be creative with this if you want! Come up with a fun team name! Design a logo! Be as cheesy as you feel comfortable.
 
-Once you have this set up, you’ll want fork the Our Social Project master repository once again. This time, you will fill out the values and rituals with something that has been agreed by the group as a whole. Once this has been set up, you can add each of the group’s members as collaborators, and each of you will be able to edit it. You can make pull requests amongst yourselves, so that you end up with a common ground set of rituals that you can all agree on. 
+Once you have this set up, you’ll want fork the OurSocialProject master repository once again. This time, you will fill out the values and rituals with something that has been agreed by the group as a whole. Once this has been set up, you can add each of the group’s members as collaborators, and each of you will be able to edit it. You can make pull requests amongst yourselves, so that you end up with a common ground set of rituals that you can all agree on. 
 
 #### Step 6: Meet up!
 
@@ -115,7 +115,7 @@ However, this could easily feel anything but great. This might feel rather awkwa
 
 #### Step 7: Join the discussion
 
-If you haven’t joined the Our Social Project Slack channel at this point, then this could be a great time to pitch in to the discussion. You can post about your first experience in the general channel, and share any learnings that you might have. Did any of your rituals backfire terribly? What worked especially well? How would you rate the experience out of ten? You might also find it useful to learn from the experiences of others, who are all searching for the same goal as you. 
+If you haven’t [joined the OurSocialProject Slack channel](https://oursocialproject.slack.com/join/shared_invite/enQtNTMwNDE4Mjk5NzMwLWEzMjg4MmYxYTdhZGJmNzdkMWY4YWE4MGQwMzdkZGRkODAzN2YyNzVkMDAxMGZhOTJkNzkxYzkzZjdlNWY1ZGQ) at this point, then this could be a great time to pitch in to the discussion. You can post about your first experience in the general channel, and share any learnings that you might have. Did any of your rituals backfire terribly? What worked especially well? How would you rate the experience out of ten? You might also find it useful to learn from the experiences of others, who are all searching for the same goal as you. 
 
 You might find it useful to share your experiences publicly with your friends. It could be an interesting story to tell; how one day, you decided to do this wacky thing, where you met up with a group of complete strangers and did a bunch of cult-y stuff! In the best case, it might be a funny horror story of something that, “just isn’t for me”, and in the best case, you might want to share these benefits with the world at large!
 
