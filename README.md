@@ -54,13 +54,7 @@ Saying that, we are also wary that different people are uncomfortable with shari
 
 All of the documents in this repository are meant to be working drafts, which should change rapidly over time. With a civil forum for discussion, we think that we can spell out our differences, and see things from new points of view. That includes ourselves too! We by no means assume that our conception of how things work is the absolute truth. We all accept that we have a long way left to go.
 
-#### Step 1: Build your fork of the master repo
-
-You should start out by making a fork of this repository for your own personal use. This repository will be an expression of your own personal learnings about community building, and a consolidation of your thoughts on the subject. Over time, you will make new pushes to this repository, which will chart the personal development of your thoughts. 
-
-If you haven’t already gotten setup with GitHub, then there are some simple instructions for getting started that you can follow along with here. For this particular project, since you’ll likely just be editing text files, you shouldn’t need to have to learn to use the GitHub CLI, and you can probably stick to just using GitHub Desktop.
-
-#### Step 2: Write your manifesto
+### Step 1: Write your manifesto
 
 As a first step, we want you to write out a personal story expressing why you are getting involved with the project. This will act as your personal “manifesto” - a rallying cry to communicate exactly what you are looking for. This document will be important, because you can use it as a way of connecting with other people in your local group. This might involve talking about why community is important to you, and what you are hoping to achieve. Some good questions to touch on might be:
 
@@ -79,7 +73,14 @@ If you feel comfortable with it, then you can also publish your manifesto to Med
 
 Here’s an example of the first manifesto that was written to try to communicate this message.
 
-#### Step 3: Edit your personal README
+### Step 2: Fork the master repo
+
+Next, you'll want to make a fork (a personal copy) of this repository for your own personal use. This repository will be an expression of your own personal learnings about community building, and a consolidation of your thoughts on the subject. Over time, you will make new pushes to this repository, which will chart the personal development of your thoughts. 
+
+If you haven’t already gotten setup with GitHub, then there are some simple instructions for getting started that you can follow along with here. For this particular project, since you’ll likely just be editing text files, you shouldn’t need to have to learn to use the GitHub CLI, and you can probably stick to just using GitHub Desktop.
+
+
+### Step 3: Edit your personal README
 
 The next step is to tailor the values and rituals that we have set up in our master branch to work for you. We don’t expect that you will agree with the way that we see the world. You might actually hold dramatically different views, and you might see the world in a completely different light. We think that everyone, no matter what their background, is deserving of human connection, so we want to make it easy to take this framework in any way that you like. You are totally free to build your own social project, which fits to a radically different agenda than ours. We hope that in time, filled with love and compassion as a member of fantastic community, you will come to share our general worldview, and try to improve it where possible!
 
@@ -87,7 +88,7 @@ If the existing values, rituals, and mission statement seem fine to you as they 
 
 If you find that your own values are so far removed from what we have come up with to be unacceptable, then you can edit this README to link back to your own repository as the “master branch” that you’re copying from. This will allow us to be far more inclusive, bringing human connection even to people that we feel no connection to at all.
 
-#### Step 4: Find your community
+### Step 4: Find your community
 
 The next step is to isolate a group of people that you can start socializing with. We want to give you as much flexibility as possible with this. You might decide that what you want from this open social project is simply for you to gain a better relationship with your friends. If that’s the case, then you could simply share your manifesto with a few friends, and try to get them to buy into it. Ideally, you’ll get them to follow these steps themselves, thinking through their own manifesto, rituals, and values - and you’ll be able to compare.
 
@@ -99,13 +100,13 @@ It’s totally up to you how the first meeting might pan out. You might decide t
 
 You are also totally free to decide how large you want the group to be. You might think that it’s easiest to start out with a small group of people, allowing everyone ample time to speak. You might think that you can bring a huge group in early, if everyone shares the same level of commitment. You can decide this for yourself.
 
-#### Step 5: Set up a group account
+### Step 5: Set up a group account
 
 The next step is to for a member of your group to come up with a GitHub account for your own local community. Be creative with this if you want! Come up with a fun team name! Design a logo! Be as cheesy as you feel comfortable.
 
 Once you have this set up, you’ll want fork the OurSocialProject master repository once again. This time, you will fill out the values and rituals with something that has been agreed by the group as a whole. Once this has been set up, you can add each of the group’s members as collaborators, and each of you will be able to edit it. You can make pull requests amongst yourselves, so that you end up with a common ground set of rituals that you can all agree on. 
 
-#### Step 6: Meet up!
+### Step 6: Meet up!
 
 In this step, you actually make it happen, and meet up with the group of friends that you found. Although you’ve probably met up with friends thousands of times before, this time should hopefully be different! If your rituals are anything like the master branch’s, then you should hopefully feel a sense of true belonging in the group that you’re a part of. 
 
@@ -113,7 +114,7 @@ Hopefully, this will feel truly special. Hopefully, you will start to feel that,
 
 However, this could easily feel anything but great. This might feel rather awkward. You might feel like the social dynamic that you have engineered seems a little forced. You might have trouble connecting in a meaningful way, or you might not feel secure in yourself to truly share your vulnerabilities. Either way, you will make a mental note of how this all went. You will see which rituals succeed, and which rituals fail, and next time, you will do better. Over time, as each of your skills at this process increases, you should gradually feel like every meetup is more impactful than the last.
 
-#### Step 7: Join the discussion
+### Step 7: Join the discussion
 
 If you haven’t [joined the OurSocialProject Slack channel](https://oursocialproject.slack.com/join/shared_invite/enQtNTMwNDE4Mjk5NzMwLWEzMjg4MmYxYTdhZGJmNzdkMWY4YWE4MGQwMzdkZGRkODAzN2YyNzVkMDAxMGZhOTJkNzkxYzkzZjdlNWY1ZGQ) at this point, then this could be a great time to pitch in to the discussion. You can post about your first experience in the general channel, and share any learnings that you might have. Did any of your rituals backfire terribly? What worked especially well? How would you rate the experience out of ten? You might also find it useful to learn from the experiences of others, who are all searching for the same goal as you. 
 
@@ -121,7 +122,7 @@ You might find it useful to share your experiences publicly with your friends. I
 
 Again, you are more than welcome to post these stories on Medium, where we would be happy to feature your perspective on our blog. Again, if writing really isn’t your cup of tea, then you can also post this as a video, and you can share this with our YouTube channel. 
 
-#### Step 8: Help us to improve!
+### Step 8: Help us to improve!
 
 Our hope for this project is that, as a group of like-minded individuals from all across the world, we will be able to really get at the heart of what makes communities “tick”. We want to reach a level of sagehood, where our collective society knows how to reach out to everyone, and make them feel connected to us all. 
 
