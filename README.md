@@ -6,7 +6,7 @@ We believe that we have everything that we need to be happy in this world, if on
 
 We want to combat this problem through community. We believe that, by connecting with other people, we can lift each other up to new heights. With a group of friends that love and accept us for who we are, we believe that we can build the self-confidence to do greater things. Usually, self-development is seen as a process of working on yourself, and then being worthy enough of human connection. In our view, instead, we think that human connection comes first, and self development follows naturally as a direct result.
 
-*OurSocialProject* is an open source initiative that empowers people to create fantastic, supportive communities in their area. We have a set of rituals that we do as a group to create and spread this human connection to others. You can [join our Slack channel](https://oursocialproject.slack.com/join/shared_invite/enQtNTMwNDE4Mjk5NzMwLWEzMjg4MmYxYTdhZGJmNzdkMWY4YWE4MGQwMzdkZGRkODAzN2YyNzVkMDAxMGZhOTJkNzkxYzkzZjdlNWY1ZGQ) to pitch in thoughts, and find like-minded people who share your vision. We maintain a [Github repository](https://github.com/OurSocialProject), as a group, where you can see the rituals that we’ve come up with so far to help foster our own community. You can use these rituals for your own group, or you can also make a “fork”, where you can create rituals of your own. We also run a Medium publication, so that everyone can add stories about their own experiences with trying to get their social projects to work for them.
+*OurSocialProject* is an open source initiative that empowers people to create fantastic, supportive communities in their area. We have a set of rituals that we do as a group to create and spread this human connection to others. You can [join our Slack channel](https://oursocialproject.slack.com/join/shared_invite/enQtNTMwNDE4Mjk5NzMwLWEzMjg4MmYxYTdhZGJmNzdkMWY4YWE4MGQwMzdkZGRkODAzN2YyNzVkMDAxMGZhOTJkNzkxYzkzZjdlNWY1ZGQ) to pitch in thoughts, and find like-minded people who share your vision. We maintain a [Github repository](https://github.com/OurSocialProject), as a group, where you can see the rituals that we’ve come up with so far to help foster our own community. You can use these rituals for your own group, or you can also make a “fork”, where you can create rituals of your own. We also run a [Medium publication](https://medium.com/oursocialproject), so that everyone can add stories about their own experiences with trying to get their social projects to work for them.
 
 ## Our Values
 
@@ -71,7 +71,7 @@ We would also encourage you to share this manifesto on social media. The aim is 
 
 If you feel comfortable with it, then you can also publish your manifesto to Medium, where we have a channel set up. If you really don’t feel like writing a manifesto out, then you can also make a video manifesto. The idea here would be to chronicle your progress as a “vlog”, rather than a blog. These videos can be shared on YouTube - and similarly, you can share these videos on the OurSocialProject YouTube channel.
 
-Here’s an example of the first manifesto that was written to try to communicate this message.
+[Here](https://medium.com/@adamjanes/66963e48fe0b/) is an example of the first manifesto that was written to try to communicate this message.
 
 ### Step 2: Fork the master repo
 
