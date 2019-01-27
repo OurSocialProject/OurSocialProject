@@ -1,4 +1,4 @@
-# OurSocialProject (Version 0.1)
+﻿# OurSocialProject (Version 0.1)
 
 ## Our Mission
 
@@ -34,17 +34,23 @@ The rituals that we have committed to so far are as follows:
     
 7.  We accept people’s thoughts and emotions as they are, without judgement. If somebody shares vulnerability, then we can build them up by non-judgmentally validating these emotions - “That must feel terrible. It’s never easy to feel like that”.
 
+9.  When someone new joins the community, we each try to: (a) Make an effort to connect 1-to-1 with that individual. (b) Share at least one genuine vulnerability with the new person. (c) Approach them with curiosity - try to learn at least one important thing about the person’s perspective which will help us to understand their experience and behaviour in future. 
+
+10. If someone comes to us with a complaint about another person, we start by asking: (a) What could you have done better to help them? (b) What good thing would you like for them which would help them? 
+
+11. If an individual or group improves in any way, no matter how small, we mention it. Even better if this is in front of multiple people. 
+
+12. We assume good faith. 
+
+
 
 
 ## Getting involved with the project
 
-### A disclaimer: Who is this targeted at?
+This project is targeted at ourselves. We seek to look at ourselves in all our vulnerability and without judgement. Looking at ourselves with kindness, we seek, simply, to build the community which we would most like for ourselves. We seek to build the community which would help us to overcome our egoic mindsets together and to approach the world with the best possible intentions. If what we hope for resonates with you, then this is targeted at you. No one is one of us more than you are. 
 
-Before reading this, bear in mind that, as we start out with this project, we are focusing our attention on developers. We do this because we want to leverage the existing open source culture that exists in the world of software development. Developers are used to the idea of forking repositories, working on their own fork of the project, and then submitting a pull request to make the open source project better. We also want to allow great developers to help to build interesting projects for the good of our overall community. Members of the community are free to make feature requests for ways that we can improve our site, and can chip in time here and there to make it better.
+If you aren’t already familiar with our Git based version control system and the associated coding jargon, not to worry. This is how we organise our documentation, and you’ll pick it up as needed. 
 
-Further down the line, we would like to target a more mainstream audience, who will also have important contributions to make about how we can build better communities. We would like to build a repo-builder, that takes users through a wizard form, which helps them to establish a fork of the project. They too can then have a mirror of our site, which lives at https://OurSocialProject.org/MY_VARIANT_ID. We can then integrate a nice user interface, where the mechanics of pull requests are abstracted away behind a comment and discussion system. This might even involve another fork being set up, which is specifically designed to cater to a mass audience. This fork might eventually have a new project name, which is a bit sexier than “OurSocialProject”!
-
-With all that said, we would of course love to get people involved who aren’t just developers! We want people to stick to using GitHub as a whole, to give things a simple structure, but you don’t need to be an expert with Git to get started.
 
 ### Getting started
 
